@@ -1,7 +1,7 @@
 # passwordGen
 Quick password generator 
 
-# In Progress
+# In testing
 
 - Launch procedure
     - ..\python passGen.py xx 
@@ -13,7 +13,9 @@ Quick password generator
 - Quick generation with argv
     - the lenght must be at least 8 any lee than that will result in a error
     - for password with less than 8 character use the "custom" init
-    - On by default: Numbers, symbols, lower and upper case character.
+    - On by default: Numbers, symbols, lipsum, lower and upper case character.
+
+# In progress
 
 - Custom
     - Lenght
