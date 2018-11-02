@@ -10,7 +10,7 @@ number = ("1","2","3","4","5","6","7","8","9","0") # number lib
 special = ("!","@","#","$","%","?","&","*","(",")","-","_","=","+","/",".",","," ") # symbol lib 
 alpha = ("a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z") # alphabet 
 alphaCap = ("A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z") # alphabet upper case
-lipsum = """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit ultrices risus at bibendum. Duis porta interdum leo, 
+lipsum = """consectetur adipiscing elit. Fusce blandit ultrices risus at bibendum. Duis porta interdum leo, 
             consectetur euismod purus aliquet eget. Aliquam nisl ex, vehicula ut massa a, sodales porttitor lacus. Phasellus ultricies mauris 
             aliquam magna tincidunt molestie. Sed nec elit metus. Vestibulum dictum sed augue in viverra. Nulla finibus, ante at hendrerit semper, 
             dui urna posuere augue, in euismod lacus dui sed justo. Vestibulum purus diam, dignissim eget risus non, feugiat blandit libero. Sed id 
